@@ -12,4 +12,4 @@ eureka:
   client:
     service-url:
       defaultZone: "http://localhost:18000/eureka/"
-msg: 实验五
+msg: 更改配置实验五
